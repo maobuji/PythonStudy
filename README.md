@@ -5,9 +5,15 @@
 
 激活环境后，需要安装如下包：
 activate python36
+
 conda install nb_conda
+
 conda install pymysql
+
 conda install numpy
+
 conda install pandas
+
 conda install tensorflow
+
 conda install matplotlib
